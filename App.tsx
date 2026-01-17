@@ -68,7 +68,7 @@ const App: React.FC = () => {
                 transition={{ duration: 1, ease: "easeOut" }}
                 className="text-2xl md:text-4xl font-serif font-bold tracking-tighter uppercase"
               >
-                Vision Agency
+                HP Studio
               </motion.div>
               <motion.div 
                 initial={{ width: 0 }}

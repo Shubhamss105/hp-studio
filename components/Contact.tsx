@@ -26,10 +26,10 @@ const Contact: React.FC = () => {
 
             <div className="flex flex-col md:flex-row gap-12 justify-center items-center mb-20">
               <a 
-                href="mailto:contact@visionagency.com"
+                href="mailto:contact@hpstudio.com"
                 className="text-2xl md:text-5xl font-light hover:text-white/60 transition-colors border-b border-white/10 hover:border-white/40 pb-4 flex items-center gap-4 group/link"
               >
-                contact@vision.com
+                contact@hpstudio.com
                 <ArrowRight className="opacity-0 group-hover/link:opacity-100 group-hover/link:translate-x-2 transition-all duration-300" />
               </a>
               <span className="hidden md:block text-white/10 text-4xl font-light">|</span>

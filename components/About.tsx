@@ -21,7 +21,7 @@ const About: React.FC = () => {
               <span className="italic">excellence</span> for the modern era.
             </h2>
             <p className="text-gray-400 text-lg font-light leading-relaxed mb-8">
-              Based in the heart of the creative industry, Vision Agency specializes in high-quality 
+              Based in the heart of the creative industry, HP Studio specializes in high-quality 
               photography and videography focused on storytelling, branding, and creative excellence.
             </p>
             <p className="text-gray-400 text-lg font-light leading-relaxed">
