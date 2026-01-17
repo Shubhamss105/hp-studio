@@ -16,9 +16,13 @@ const Hero: React.FC = () => {
         className="absolute inset-0 z-0"
       >
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black z-10" />
-        <img 
-          src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80&w=2000" 
-          alt="Cinematic Vision Background" 
+        <video
+          src="https://videos.pexels.com/video-files/853870/853870-hd_1920_1080_25fps.mp4"
+          poster="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80&w=2000"
+          autoPlay
+          loop
+          muted
+          playsInline
           className="w-full h-[120%] object-cover grayscale opacity-50"
         />
       </motion.div>
